@@ -107,7 +107,7 @@ nmap -p http -sS -O 127.0.0.1 ;
 ls /usr/share/nmap/scripts
 ```
 
-<img herf="https://github.com/drcayber/nmap/blob/main/fonts/git.png">
+<img href="https://github.com/drcayber/nmap/blob/main/fonts/git.png">
 
 
 - How to use script NSE?
